@@ -1,0 +1,63 @@
+.contenedor-izquierdo{
+    width: 300px;
+    height: 625px;
+    background-color: gray;
+    margin: -8px -16px;
+}
+
+.contenedor-izquierdo_img{
+    width: 150px;
+    height: 150px;
+    background-image: url("https://i.ibb.co/X3Z2ZwW/mi-foto.jpg");
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    left: 75px;
+    top: 20px;
+}
+
+.contenedor-izquierdo_sobre_mi h1{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    padding: 15px 0;
+    color: #ffffff;
+}
+
+.contenedor-izquierdo_sobre_mi p{
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+    color: #c7c7c7;
+}
+
+.contendor-izquierdo_barra{
+    width: 200px;
+    height: 1px;
+    background-color: rgb(179, 178, 178);
+    position: relative;
+    left: 45px;
+    top: 10px;
+}
+
+.contenedor-izquierda_redes_sociales{
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+}
+
+.contenedor-izquierda_redes_sociales h2{
+    color: #ffffff;
+    font-family: 'Poppins', sans-serif;
+}
+
+.contenedor-izquierda_redes_sociales p span{
+    color: #c2bebe;
+}
+
+.contenedor-izquierda_redes_sociales p small{
+    font-size: 13px;
+    color: #c1bfbf;
+}
