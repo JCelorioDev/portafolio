@@ -39,6 +39,8 @@ body{
     text-align: center;
     font-family: 'Bebas Neue', cursive;
     color: #c7c7c7;
+    font-size: 15px;
+    margin: 0 15px;
 }
 
 .contendor-izquierdo_barra{
